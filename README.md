@@ -13,7 +13,7 @@ Welcome to the Data Structures and Algorithms repository!. Whether you're a begi
 ## 🪡How to Use
 1. Clone the Repository:
 ```
-git clone https://github.com/your-username/data-structures-and-algorithms.git
+git clone https://github.com/Beyound3d/DSA.git
 ```
 
 2. Explore the Content: Navigate through the directories to find implementations and explanations of different data structures and algorithms.
